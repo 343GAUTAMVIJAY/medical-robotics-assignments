@@ -23,4 +23,4 @@
 
 # 7 Linkedin Post
 > Submit the LinkedIn post URL
-> [LinkedIn post URL]
+> https://www.linkedin.com/posts/gautam-vijay-k-k-9150b8292_medicalrobotics-artificialintelligence-healthcareinnovation-ugcPost-7437022057835626496-5OvC?utm_source=share&utm_medium=member_android&rcm=ACoAAEbZliEBHUEiDpJNzpYhpyooAmgyPFtY8qM
